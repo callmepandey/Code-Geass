@@ -30,16 +30,6 @@ Code Geass is a dynamic online platform designed to enhance your problem-solving
 
 - **Leaderboards:** Compete against other users in real-time and climb the global leaderboards by solving challenges efficiently and accurately. Users can track their progress, compare their performance with peers, and strive to reach the top of the rankings.
 
-## Getting Started
-
-To get started with Code Geass, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Install the necessary dependencies listed in the `requirements.txt` file.
-3. Configure the database settings in the `settings.py` file.
-4. Run the Django migrations to set up the database schema.
-5. Start the development server and access Code Geass through your web browser.
-
 ## Contributing
 
 Contributions to Code Geass are welcome! Whether you'd like to add new features, fix bugs, or improve documentation, please feel free to submit a pull request. Make sure to follow the contribution guidelines outlined in the `CONTRIBUTING.md` file.
