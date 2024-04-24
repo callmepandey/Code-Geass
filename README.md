@@ -37,3 +37,8 @@ Contributions to Code Geass are welcome! Whether you'd like to add new features,
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+## Snapshots from the Project
+
+![Screenshot 2024-04-24 at 7 29 01 PM](https://github.com/callmepandey/Code-Geass/assets/42908589/0d5b6e3d-d803-47c3-a99b-ae67fb42e9ca)
+
