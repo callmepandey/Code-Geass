@@ -40,5 +40,11 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Snapshots from the Project
 
+![Screenshot 2024-04-24 at 7 26 55 PM](https://github.com/callmepandey/Code-Geass/assets/42908589/5ed957a8-6fd2-4c3c-ac26-1052399f2672)
+
+
+![Screenshot 2024-04-24 at 7 28 12 PM](https://github.com/callmepandey/Code-Geass/assets/42908589/2e579891-afc6-4093-8d88-54f4bccaae54)
+
+
 ![Screenshot 2024-04-24 at 7 29 01 PM](https://github.com/callmepandey/Code-Geass/assets/42908589/0d5b6e3d-d803-47c3-a99b-ae67fb42e9ca)
 
