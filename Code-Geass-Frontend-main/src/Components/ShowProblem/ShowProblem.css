@@ -1,0 +1,77 @@
+.outer-container {
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.problem-heading {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.chip-container {
+    margin: 15px 0;
+    display: inline-flex;
+    flex-direction: row;
+    background-color: #e5e5e5;
+    border: none;
+    cursor: default;
+    height: 36px;
+    outline: none;
+    padding: 0;
+    font-size: 14px;
+    font-color: #333333;
+    font-family:"Open Sans", sans-serif;
+    white-space: nowrap;
+    align-items: center;
+    border-radius: 16px;
+    vertical-align: middle;
+    text-decoration: none;
+    justify-content: center;
+}
+
+.chip-content {
+    cursor: inherit;
+    display: flex;
+    align-items: center;
+    user-select: none;
+    white-space: nowrap;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.outer-container {
+    padding: 24px;
+    width: 50%;
+}
+
+.problem-paragraph {
+    font-size: 15px;
+    overflow: auto;
+}
+
+.example {
+    margin-top: 12px;
+}
+
+.example-heading {
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.example-content {
+    background-color: rgba(0, 0, 0, 0.08);
+    padding: 12px
+}
+
+.example-p {
+    display: inline;
+}
+
+.constrain-container {
+    margin-top: 12px;
+}
+
+.constrain-p {
+    font-weight: 600;
+    font-size: 16px;
+}
